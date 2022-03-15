@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <descript>
+            <abstract>Census 2020 Tracts with selected 1990, 2000, 2010, 2020 P.L. 94-171 redistricting data - includes a row for city totals.For more information about the P.L. 94-171 redistricting data, please visit the U.S. Census Bureau.  For a detailed description of the data included please see the 2020 Census State Redistricting Data Summary File. </abstract>
+            <purpose>Census 2020 Tracts within the City of Seattle with selected 1990, 2000, 2010, 2020 P.L. 94-171 redistricting data.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Planning</themekey>
+                <themekey>census 2020</themekey>
+                <themekey>redistricting</themekey>
+                <themekey>tracts</themekey>
+                <themekey>census tracts</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst/>
+        <datacred/>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
